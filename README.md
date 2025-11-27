@@ -19,6 +19,7 @@ _check if a virtual environment has been installed_
 poetry env list
 
 # double check the `site-packages` by inspecting the actual cache file
+# this is to see if your packages are actually installed
 
 poetry env info --path
 
