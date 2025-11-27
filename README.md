@@ -1,5 +1,7 @@
 # FastAPI - Poetry Starter kit
 
+_*Make Poetry is already installed*_
+
 + This projecty was initialized using `poetry init`.
 
 + `fastapi` was then initially installed as the initial dependency.
@@ -18,7 +20,7 @@ poetry env list
 
 # double check the `site-packages` by inspecting the actual cache file
 
-poetry env infor --path
+poetry env info --path
 
 # if its there complete, proceed to activate
 # if not, just run poetry install --no-root
