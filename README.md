@@ -18,7 +18,7 @@ poetry env list
 
 # double check the `site-packages` by inspecting the actual cache file
 
-poetry env infor --path
+poetry env info --path
 
 # if its there complete, proceed to activate
 # if not, just run poetry install --no-root
