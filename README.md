@@ -1,5 +1,7 @@
 # FastAPI - Poetry Starter kit
 
+_*Make Poetry is already installed*_
+
 + This projecty was initialized using `poetry init`.
 
 + `fastapi` was then initially installed as the initial dependency.
